@@ -1,4 +1,5 @@
 # Ex.01 BASIC NETWORKING COMMANDS
+## DATE:05/04/2024
 ## AIM
   To understand the working of basic commands in networking.
 
@@ -28,7 +29,10 @@
     Displays information about tcp and udp connections and ports.
 
 ## OUTPUT
-
-
+    ![alt text](image.png)
+    ![alt text](image-1.png)
+    ![alt text](image-2.png)
+    ![alt text](image-3.png)
+    
 ## RESULT
   The basic commands in networking are executed successfully.
